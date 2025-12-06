@@ -19,9 +19,9 @@ The dashboard contains interactive visuals such as-
 These visuals help HR teams identify high-risk employee groups and areas requiring attention.
 
 Files Included:
-1) [HR Analytics Dashboard](HR Analytics Dashboard-PowerBI Project.pbix) – Power BI report
-2) [HR Analytics Data](HR Analytics Dataset.xlsx) – Dataset
-3) Screenshots – Dashboard image
+1) [HR Analytics Dashboard](HR Analytics Dashboard-PowerBI Project.pbix)
+2) [HR Analytics Data](HR Analytics Dataset.xlsx)
+3) Screenshots
 
 Features:
 * Cleaned and transformed raw HR data using Power Query
