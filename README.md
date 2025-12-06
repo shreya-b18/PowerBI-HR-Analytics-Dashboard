@@ -21,7 +21,7 @@ These visuals help HR teams identify high-risk employee groups and areas requiri
 Files Included:
 1) [HR Analytics Dashboard](HR Analytics Dashboard-PowerBI Project.pbix)
 2) [HR Analytics Data](HR Analytics Dataset.xlsx)
-3) Screenshots
+3) Screenshot- Dashboard
 
 Features:
 * Cleaned and transformed raw HR data using Power Query
